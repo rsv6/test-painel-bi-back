@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "nome": "João Ferreira Alves",
+    "cpf": "22233344455",
+    "telefone": 988776544,
+    "email": "joao@gmail.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Altaneira",
+        "numero": 234,
+        "bairro": "Barra do Ceará",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Pedro Souza de Oliveira",
+    "cpf": "98766533398",
+    "telefone": 984756433,
+    "email": "pedro@gmail.com",
+    "endereco": [
+      {
+        "logradouro": "Av. Alto do bode",
+        "numero": 123,
+        "bairro": "Conjunto Ceará",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Júlia Perreira Silva",
+    "cpf": "12343245632",
+    "telefone": 998344544,
+    "email": "julia@hotmail.com",
+    "endereco": [
+      {
+        "logradouro": "Rua B",
+        "numero": 873,
+        "bairro": "Aldeota",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Yuri Gonçalves Dias",
+    "cpf": "09845345455",
+    "telefone": 912433454,
+    "email": "yuri@uol.com.br",
+    "endereco": [
+      {
+        "logradouro": "Rua Don Mendinho",
+        "numero": 21,
+        "bairro": "Parangaba",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Marcos Diniz Magalhães",
+    "cpf": "29823343212",
+    "telefone": 987112034,
+    "email": "marcos@yahoo.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Tulipa",
+        "numero": 3543,
+        "bairro": "Barra do Ceará",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Roberta Gomes Barros",
+    "cpf": "22399812234",
+    "telefone": 999239923,
+    "email": "roberta@hotmail.com",
+    "endereco": [
+      {
+        "logradouro": "Av. Pico alto",
+        "numero": 456,
+        "bairro": "Maraponga",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Juliana Almeida Pitanga",
+    "cpf": "34522254329",
+    "telefone": 989023054,
+    "email": "juliana@outlook.com",
+    "endereco": [
+      {
+        "logradouro": "Av. Julião Pinto",
+        "numero": 1423,
+        "bairro": "Antônio Bezerra",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Marcio Fontes Santos Galvão",
+    "cpf": "98734501234",
+    "telefone": 999201002,
+    "email": "marcio@uol.com.br",
+    "endereco": [
+      {
+        "logradouro": "Rua Jacaúna Felix",
+        "numero": 1334,
+        "bairro": "Quintino Cunha",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Patrícia Jatobá Suassuna",
+    "cpf": "11223422298",
+    "telefone": 988232312,
+    "email": "patricia@gmail.com",
+    "endereco": [
+      {
+        "logradouro": "Av. Robert Kennedy ",
+        "numero": 4332,
+        "bairro": "Centro",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Rafael Ribeiro Siqueira",
+    "cpf": "02630923012",
+    "telefone": 989203043,
+    "email": "rafael@yahoo.com",
+    "endereco": [
+      {
+        "logradouro": "Av. Leste Sul ",
+        "numero": 14,
+        "bairro": "Aldeota",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Fátima Correia Castro Silva",
+    "cpf": "99923933499",
+    "telefone": 992938949,
+    "email": "fatima@outlook.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Romeu Martins",
+        "numero": 23,
+        "bairro": "São Gerardo",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Socorro Castelo Matos Rocha",
+    "cpf": "22344099432",
+    "telefone": 987230034,
+    "email": "socorro@uol.com.br",
+    "endereco": [
+      {
+        "logradouro": "Rua Doná Ram",
+        "numero": 432,
+        "bairro": "Fátima",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Gabriel Guimarães Texeira",
+    "cpf": "22199923123",
+    "telefone": 989876503,
+    "email": "gabriel@ig.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Eva Rodrigues",
+        "numero": 231,
+        "bairro": "Parquelândia",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Daniele Almeida Braga",
+    "cpf": "99820193223",
+    "telefone": 989023002,
+    "email": "daniele@gmail.com",
+    "endereco": [
+      {
+        "logradouro": "Av. da Universidade",
+        "numero": 983,
+        "bairro": "Centro",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Fábio Castro Araújo",
+    "cpf": "33399922291",
+    "telefone": 988773727,
+    "email": "fabio@yahoo.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Clarindo Pereira",
+        "numero": 1123,
+        "bairro": "Meireles",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Cleber Rodrigues Souza Alves",
+    "cpf": "55432200203",
+    "telefone": 999887732,
+    "email": "cleber@hotmail.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Porto Alegre",
+        "numero": 2234,
+        "bairro": "Varjota",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Paulo Campos Fontes",
+    "cpf": "98302142344",
+    "telefone": 998994952,
+    "email": "paulo@gmail.com",
+    "endereco": [
+      {
+        "logradouro": "Rua José Vilar",
+        "numero": 1678,
+        "bairro": "Papicu",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Jorge Pontes da Costa",
+    "cpf": "00212233323",
+    "telefone": 9987332201,
+    "email": "jorge@yahoo.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Ribeiro da Silva",
+        "numero": 391,
+        "bairro": "Messejana",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Daniel Cardoso Correia Rocha",
+    "cpf": "02100234543",
+    "telefone": 999928832,
+    "email": "daniel@uol.com.br",
+    "endereco": [
+      {
+        "logradouro": "Av. Olavo Bilac",
+        "numero": 4562,
+        "bairro": "Parquelândia",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Ricardo Rocha Silva",
+    "cpf": "03398023385",
+    "telefone": 998292013,
+    "email": "ricardo@yahoo.com",
+    "endereco": [
+      {
+        "logradouro": "Rua Padre Bernardino",
+        "numero": 1222,
+        "bairro": "Aldeota",
+        "municipio": "Fortaleza",
+        "UF": "CE"
+      }
+    ]
+  }
+]
