@@ -11,7 +11,6 @@ export default class Routes {
     this.router = express.Router()
     this.home = new HomeController()
     this.user = new UsersController()
-
   }
 
   start() {
