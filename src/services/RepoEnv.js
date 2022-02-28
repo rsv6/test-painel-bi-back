@@ -6,9 +6,9 @@ export default class RepoEnv {
   constructor () {
     this.#setPortApi(process.env.PORT)
     this.#setTknSecrects({
-      compras: process.env.TKN_COMPRAS,
-      admin:  process.env.TKN_ADMINIS,
-      ti: process.env.TKN_TECINFO
+      compras: process.env.COMPRAS,
+      gfe: process.env.GFE,
+      administrador: process.env.ADMINISTRADOR
     })
   }
 
