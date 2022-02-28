@@ -1,0 +1,8 @@
+[
+  { "id": 1, "login": "rafael", "senha": "123456", "setor": "ti" },
+  { "id": 2, "login": "maite", "senha": "654321", "setor": "admin" },
+  { "id": 3, "login": "leticia", "senha": "098765", "setor": "compras" },
+  { "id": 4, "login": "malu", "senha": "345678", "setor": "ti" },
+  { "id": 5, "login": "joao", "senha": "123765", "setor": "ti" },
+  { "id": 6, "login": "brenda", "senha": "456849", "setor": "compras" }
+]
